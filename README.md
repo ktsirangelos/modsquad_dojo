@@ -1,13 +1,13 @@
-Katas
+#Katas
 
-1. Hello world with parameter
+1. ## Hello world with parameter
 
 Create a web page which displays `Hello <name>` where `<name>` is set in the URL.
 
 - Implement using `<resource-url>?name=<name>`
 - Implement using `<resource-url>/<name>`
 
-2. Floating widgets
+2. ## Floating widgets
 
 Create a web page with one or more widgets, which keep their relative position to the browser window (and to each other), no matter how the browser is sized.
 

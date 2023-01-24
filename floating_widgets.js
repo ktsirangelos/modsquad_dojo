@@ -7,7 +7,7 @@ const queryStr = location.search;
 if (queryStr) {
   const [left, right] = queryStr.split("=");
 
-  if (left == "?widgets") {
+  if (left == "?widgets" && right <= 100) {
     const isSquare = Math.sqrt(right);
     const notSquare = Number(right);
     if (Number.isInteger(notSquare)) {
@@ -66,6 +66,6 @@ if (queryStr) {
       alert(`Number is not an integer!`);
     }
   } else {
-    alert(`Parameter should be "widgets"`);
+    alert(`Parameter should be "widgets" and number <= 100`);
   }
 }

@@ -1,5 +1,7 @@
 # modsquad_dojo
 
+<!--
+
 Katas
 
 1. Hello world with parameter
@@ -17,3 +19,5 @@ Katas
    A group of widgets positioned around the center, their distance being proportional to the browser size
    Use an url parameter to set the number of widgets and arrange them into a square pattern (with "holes" if needed)
    Don't use JavaScript for positioning!
+
+   -->

@@ -1,6 +1,6 @@
 # modsquad_dojo
 
-<!--
+```
 
 Katas
 
@@ -20,4 +20,5 @@ Katas
    Use an url parameter to set the number of widgets and arrange them into a square pattern (with "holes" if needed)
    Don't use JavaScript for positioning!
 
-   -->
+
+```

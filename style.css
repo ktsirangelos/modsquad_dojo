@@ -1,0 +1,36 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #0d1117;
+  color: #cbc6c0;
+}
+
+.body {
+  background-color: #0d1117;
+  color: #cbc6c0;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+a:link {
+  text-decoration: none;
+  color: #cbc6c0;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #cbc6c0;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #57b2ff;
+}
+
+a:active {
+  text-decoration: underline;
+}

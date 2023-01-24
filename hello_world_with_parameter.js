@@ -3,6 +3,10 @@
 const queryStr = location.search;
 if (queryStr) {
   const [left, right] = queryStr.split("=");
-  document.getElementById("name").textContent =
-    right[0].toUpperCase() + right.slice(1);
+  if (left == "?name") {
+    document.getElementById("name").textContent =
+      right[0].toUpperCase() + right.slice(1);
+  } else {
+    alert(`Parameter should be "name"`);
+  }
 }

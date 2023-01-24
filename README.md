@@ -1,5 +1,3 @@
-# modsquad_dojo
-
 ```
 
 Katas

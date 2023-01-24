@@ -1,4 +1,4 @@
-#Katas
+# Katas
 
 1. Hello world with parameter
 
@@ -11,7 +11,7 @@
 
    Create a web page with one or more widgets, which keep their relative position to the browser window (and to each other), no matter how the browser is sized.
 
-   Examples:
+   ## Examples:
 
    A single widget which stays in the center of the window
    A group of widgets positioned around the center, their distance being proportional to the browser size

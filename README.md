@@ -1,13 +1,11 @@
-```
-
-Katas
+#Katas
 
 1. Hello world with parameter
 
-   Create a web page which displays "Hello <name>" where <name> is set in the URL.
+   Create a web page which displays `Hello <name>` where `<name>` is set in the URL.
 
-   Implement using <resource-url>?name=<name>
-   Implement using <resource-url>/<name>
+   Implement using `<resource-url>?name=<name>`
+   Implement using `<resource-url>/<name>`
 
 2. Floating widgets
 
@@ -20,6 +18,3 @@ Katas
    Use an url parameter to set the number of widgets and arrange them into a square pattern (with "holes" if needed)
 
    Don't use JavaScript for positioning!
-
-
-```
